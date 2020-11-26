@@ -3,3 +3,6 @@
 .env.local
 .env.*.local
 env
+test3.5
+test3.7.3
+testenv
